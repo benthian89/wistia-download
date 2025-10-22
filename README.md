@@ -2,10 +2,10 @@
 Steps to download wistia videos (works as of 2025/10/22)
 1. Right-click on the playing video, select Copy link, then paste in a Notepad
 
-2. Find Wistia video ID in the copied link e.g. wvideo=tra6gsm6rl
+2. Find Wistia video ID in the copied link e.g. wvideo=fra6g1m6rl
 
 3. Load http://fast.wistia.net/embed/iframe/ + video ID in your browser
-   e.g. http://fast.wistia.net/embed/iframe/tra6gsm6rl
+   e.g. http://fast.wistia.net/embed/iframe/fra6g1m6rl
 
 4. If it is password protected, enter the password.
 
